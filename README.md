@@ -5,7 +5,7 @@ eds 220 homework assignment presentation ready repo: Hwk 2-Task 2: Air Quality I
 
 ## Short explanation of the goal/purpose of the repository:
 
-This is a repository for the UCSB EDS220 course homework 4 task 3. Here, we will have the Hwk 2-Task 2: Air Quality Index Data exercise along with the Hwk4-Task 2: False color image exercise. 
+This is a repository for the UCSB EDS220 course homework 4 task 3. Here, we will have the Hwk 2-Task 2: Air Quality Index Data exercise along with the Hwk4-Task 2: False color image exercise. The purpose of these analyses are to look at the impacts of the Thomas Fire on Santa Barbara County. This fire occurred in December 2017 and continued through mid January 2018. We are looking into how the Air Quality Index may have changed throughout 2017 and 2018 in relation to the fire, and we are looking at in relation to the geographic location of the fire by overlaying the Thomas fire perimeter over a false color image of the surrounding area to look at the short-wave infrared (swir22) and near-infrared values. 
 
 ## Data citations: 
 
